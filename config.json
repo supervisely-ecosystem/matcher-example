@@ -1,6 +1,6 @@
 {
-  "name": "Persons",
-  "description": "Multiview Object Matching Sample",
+  "name": "Multiview Object Matching Sample",
+  "description": "Sample project with 9 images",
   "type": "project",
   "categories": [
     "import",
