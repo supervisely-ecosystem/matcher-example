@@ -24,7 +24,7 @@ This is a small sample of 9 multiview images used as an example in Multiview Obj
 
 <img src="https://github.com/user-attachments/assets/493b6f52-3c5f-4c81-81f3-03c391bbd72e" />
 
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/matcher-sample" src="https://github.com/user-attachments/assets/493b6f52-3c5f-4c81-81f3-03c391bbd72e" height="70px" margin-bottom="20px"/>
+
 
 ## Download
 
