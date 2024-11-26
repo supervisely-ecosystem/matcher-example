@@ -1,0 +1,46 @@
+{
+    "classes": [],
+    "tags": [
+        {
+            "name": "bbox match type",
+            "value_type": "oneof_string",
+            "color": "#0F8A15",
+            "values": [
+                "reference",
+                "matched"
+            ],
+            "id": 542374,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "matched bbox ID",
+            "value_type": "any_number",
+            "color": "#8A0F5E",
+            "id": 542375,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "multiview",
+            "value_type": "any_string",
+            "color": "#8A280F",
+            "id": 542249,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}

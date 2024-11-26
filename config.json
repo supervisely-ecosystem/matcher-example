@@ -1,0 +1,12 @@
+{
+  "name": "Persons",
+  "description": "Multiview Object Matching Sample",
+  "type": "project",
+  "categories": [
+    "import",
+    "images",
+    "project"
+  ],
+  "icon": "https://github.com/user-attachments/assets/3f0322f8-a0a9-4470-aafc-db207faee08d",
+  "icon_cover": true
+}
